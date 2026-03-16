@@ -1,7 +1,7 @@
 # LibGGX Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build](https://github.com/Octal450/LibGGX/actions/workflows/rust.yml/badge.svg)](https://github.com/Octal450/LibGGX/actions)
+[![Build]()]()
 
 LibGGX is the next-generation toolkit for Xbox 360 NAND manipulation, research, and development. Built from the ground up in native Rust, it provides a high-performance, memory-safe alternative to legacy tools. Whether you are building donor NANDs for RGH3, extracting assets from system updates, or implementing advanced hypervisor patches, LibGGX offers a modular and extensible architecture to handle the most complex tasks with ease.
 
