@@ -4,6 +4,7 @@ A collection of ulities ported from othet projects to form a xeBuild replacement
 
 ## Quickstart
 Download ggx-cli.exe from releases. GGX-CLI documentstion is available [here]()
+Usage: `ggx-cli <command> <inputs> <options>`
 
 ## Developer
 GGX-CLI acts as a reference implementation of LibGGX. All commands exposed in cargo are also available in FFI. GxInterface documentation available [here]()
